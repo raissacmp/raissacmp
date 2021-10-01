@@ -1,6 +1,6 @@
 ### Hello guys, welcome 💗
 
-- Developer web front-end (she/her) 👩🏽‍💻
+- Web developer front-end (she/her) 👩🏽‍💻
 <div align="center">
   <a href="https://github.com/raissacmp">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raissacmp&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
